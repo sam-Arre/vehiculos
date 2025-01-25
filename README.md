@@ -1,1 +1,2 @@
 # vehiculos
+Es una app donde puedes revisar los precios del vehiculos de tu interes por año de lanzamieto y el km que marca el odometro, por lo que será de interes de los usuarios para poder revisar estas dos variables y hacer una buena compra.
